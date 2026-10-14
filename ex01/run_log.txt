@@ -1,0 +1,7 @@
+Starting file manipulation exercise...
+Contents of draft.txt:
+This is the first line.
+This is the second line.
+Temporary file created.
+Temporary file removed.
+File manipulation exercise completed.
